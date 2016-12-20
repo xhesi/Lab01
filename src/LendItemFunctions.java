@@ -1,12 +1,6 @@
 
 public class LendItemFunctions {
-	/**
-	 * 
-	 * @param it
-	 * @param format
-	 * @return
-	 * 
-	 */
+
 	
 	public static String lendItemString(LendItem it, int format)
 	{
